@@ -10,6 +10,7 @@ With more than a decade of experience, I contribute research, creativity, techni
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D7?logo=microsoft-sharepoint&logoColor=white)
 ![CRM Dynamics](https://img.shields.io/badge/-Dynamics%20365-0078D4?logo=microsoft-dynamics&logoColor=white)
+[![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ### 🌐 Languages
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
