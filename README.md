@@ -1,7 +1,7 @@
 ## About Me
-I am passionate about joining dynamic teams committed to achieving meaningful goals, while fostering an environment of camaraderie and daily accomplishment.
+I am passionate about joining dynamic teams committed to achieving meaningful goals, while fostering an environment of camaraderie and achievement.
 
-With over a decade of experience, I bring a wealth of research, creativity, technical skills, and a collaborative spirit to each project.
+With more than a decade of experience, I contribute research, creativity, technical capacity and collaborative spirit to each project.
 
 ## 🧠 Skills Showcase
 
