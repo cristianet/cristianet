@@ -10,6 +10,8 @@ With more than a decade of experience, I contribute research, creativity, techni
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D7?logo=microsoft-sharepoint&logoColor=white)
 ![CRM Dynamics](https://img.shields.io/badge/-Dynamics%20365-0078D4?logo=microsoft-dynamics&logoColor=white)
+[![Reporting Services](https://img.shields.io/badge/-Reporting%20Services-FF0000?logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
+[![Integration Services](https://img.shields.io/badge/-Integration%20Services-FF8C00?logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ### 🌐 Languages
@@ -46,5 +48,6 @@ With more than a decade of experience, I contribute research, creativity, techni
 ### 🎯 Others
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![ServiceNow](https://img.shields.io/badge/-ServiceNow-000000?logo=servicenow&logoColor=white)](https://www.servicenow.com/)
+[![QlikView](https://img.shields.io/badge/-QlikView-000000?logo=qlikview&logoColor=white)](https://www.qlik.com/us/)
 [![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?logo=scrum&logoColor=white)](https://www.scrum.org/)
 [![Kanban](https://img.shields.io/badge/-Kanban-00AEFF?logo=kanban&logoColor=white)](https://www.digite.com/kanban/)
